@@ -1,0 +1,11 @@
+{
+  "name": "windowformagic",
+  "version": "1.0.0",
+  "description": "Magic-powered script setup for Windows and GitHub workflows",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "esz-stone",
+  "license": "MIT"
+}
